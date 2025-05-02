@@ -8,7 +8,6 @@ This project explores using audio features from the Spotify API to automatically
 ## 🛠️ Languages and Libraries Used
   - Python
   - pandas
-  - numpy
   - scikit-learn
   - matplotlib
   - seaborn
