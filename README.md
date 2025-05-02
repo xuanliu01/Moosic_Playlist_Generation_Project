@@ -7,12 +7,12 @@ This project explores using audio features from the Spotify API to automatically
 
 ## 🛠️ Languages and Libraries Used
   - Python
-  - pandas
-  - scikit-learn
-  - matplotlib
-  - seaborn
-  - spotipy
-  - kmeans-constrained
+  - Pandas
+  - Scikit-learn
+  - Matplotlib
+  - Seaborn
+  - Spotipy
+  - Kmeans-constrained
 
 ## 📚 Key Learnings
 - Learned to guide clustering with feature weighting based on human perception.
